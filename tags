@@ -1,0 +1,233 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+BIT_ADC	s3c24xx.h	204;"	d
+BIT_ALLMSK	s3c24xx.h	205;"	d
+BIT_BAT_FLT	s3c24xx.h	180;"	d
+BIT_CAM	s3c24xx.h	179;"	d
+BIT_DMA0	s3c24xx.h	190;"	d
+BIT_DMA1	s3c24xx.h	191;"	d
+BIT_DMA2	s3c24xx.h	192;"	d
+BIT_DMA3	s3c24xx.h	193;"	d
+BIT_EINT0	s3c24xx.h	173;"	d
+BIT_EINT1	s3c24xx.h	174;"	d
+BIT_EINT2	s3c24xx.h	175;"	d
+BIT_EINT3	s3c24xx.h	176;"	d
+BIT_EINT4_7	s3c24xx.h	177;"	d
+BIT_EINT8_23	s3c24xx.h	178;"	d
+BIT_IIC	s3c24xx.h	200;"	d
+BIT_LCD	s3c24xx.h	189;"	d
+BIT_NFCON	s3c24xx.h	197;"	d
+BIT_RTC	s3c24xx.h	203;"	d
+BIT_SDI	s3c24xx.h	194;"	d
+BIT_SPI0	s3c24xx.h	195;"	d
+BIT_SPI1	s3c24xx.h	202;"	d
+BIT_SUB_AC97	s3c24xx.h	208;"	d
+BIT_SUB_ADC	s3c24xx.h	212;"	d
+BIT_SUB_ALLMSK	s3c24xx.h	207;"	d
+BIT_SUB_CAM_C	s3c24xx.h	211;"	d
+BIT_SUB_CAM_S	s3c24xx.h	210;"	d
+BIT_SUB_ERR0	s3c24xx.h	220;"	d
+BIT_SUB_ERR1	s3c24xx.h	217;"	d
+BIT_SUB_ERR2	s3c24xx.h	214;"	d
+BIT_SUB_RXD0	s3c24xx.h	222;"	d
+BIT_SUB_RXD1	s3c24xx.h	219;"	d
+BIT_SUB_RXD2	s3c24xx.h	216;"	d
+BIT_SUB_TC	s3c24xx.h	213;"	d
+BIT_SUB_TXD0	s3c24xx.h	221;"	d
+BIT_SUB_TXD1	s3c24xx.h	218;"	d
+BIT_SUB_TXD2	s3c24xx.h	215;"	d
+BIT_SUB_WDT	s3c24xx.h	209;"	d
+BIT_TICK	s3c24xx.h	181;"	d
+BIT_TIMER0	s3c24xx.h	183;"	d
+BIT_TIMER1	s3c24xx.h	184;"	d
+BIT_TIMER2	s3c24xx.h	185;"	d
+BIT_TIMER3	s3c24xx.h	186;"	d
+BIT_TIMER4	s3c24xx.h	187;"	d
+BIT_UART0	s3c24xx.h	201;"	d
+BIT_UART1	s3c24xx.h	196;"	d
+BIT_UART2	s3c24xx.h	188;"	d
+BIT_USBD	s3c24xx.h	198;"	d
+BIT_USBH	s3c24xx.h	199;"	d
+BIT_WDT_AC97	s3c24xx.h	182;"	d
+BLUELUT	s3c24xx.h	129;"	d
+CLKCON	s3c24xx.h	99;"	d
+CLKDIVN	s3c24xx.h	101;"	d
+CLKSLOW	s3c24xx.h	100;"	d
+DITHMODE	s3c24xx.h	130;"	d
+EINTMASK	s3c24xx.h	92;"	d
+EINTPEND	s3c24xx.h	93;"	d
+GPACON	s3c24xx.h	37;"	d
+GPADAT	s3c24xx.h	38;"	d
+GPBCON	main.c	2;"	d	file:
+GPBCON	s3c24xx.h	40;"	d
+GPBDAT	main.c	3;"	d	file:
+GPBDAT	s3c24xx.h	41;"	d
+GPBUP	s3c24xx.h	42;"	d
+GPCCON	s3c24xx.h	44;"	d
+GPCDAT	s3c24xx.h	45;"	d
+GPCUP	s3c24xx.h	46;"	d
+GPDCON	s3c24xx.h	48;"	d
+GPDDAT	s3c24xx.h	49;"	d
+GPDUP	s3c24xx.h	50;"	d
+GPECON	s3c24xx.h	52;"	d
+GPEDAT	s3c24xx.h	53;"	d
+GPEUP	s3c24xx.h	54;"	d
+GPFCON	s3c24xx.h	56;"	d
+GPFDAT	s3c24xx.h	57;"	d
+GPFUP	s3c24xx.h	58;"	d
+GPGCON	s3c24xx.h	60;"	d
+GPGDAT	s3c24xx.h	61;"	d
+GPGUP	s3c24xx.h	62;"	d
+GPHCON	s3c24xx.h	64;"	d
+GPHDAT	s3c24xx.h	65;"	d
+GPHUP	s3c24xx.h	66;"	d
+GREENLUT	s3c24xx.h	128;"	d
+GSTATUS1	s3c24xx.h	224;"	d
+IICADD	s3c24xx.h	115;"	d
+IICCON	s3c24xx.h	113;"	d
+IICDS	s3c24xx.h	116;"	d
+IICSTAT	s3c24xx.h	114;"	d
+INTMOD	s3c24xx.h	83;"	d
+INTMSK	s3c24xx.h	84;"	d
+INTOFFSET	s3c24xx.h	87;"	d
+INTPND	s3c24xx.h	86;"	d
+INTSUBMSK	s3c24xx.h	89;"	d
+ISR_ADC_OFT	s3c24xx.h	169;"	d
+ISR_BAT_FLT_OFT	s3c24xx.h	145;"	d
+ISR_DMA0_OFT	s3c24xx.h	155;"	d
+ISR_DMA1_OFT	s3c24xx.h	156;"	d
+ISR_DMA2_OFT	s3c24xx.h	157;"	d
+ISR_DMA3_OFT	s3c24xx.h	158;"	d
+ISR_EINT0_OFT	s3c24xx.h	138;"	d
+ISR_EINT1_OFT	s3c24xx.h	139;"	d
+ISR_EINT2_OFT	s3c24xx.h	140;"	d
+ISR_EINT3_OFT	s3c24xx.h	141;"	d
+ISR_EINT4_7_OFT	s3c24xx.h	142;"	d
+ISR_EINT8_23_OFT	s3c24xx.h	143;"	d
+ISR_IIC_OFT	s3c24xx.h	165;"	d
+ISR_LCD_OFT	s3c24xx.h	154;"	d
+ISR_NOTUSED24_OFT	s3c24xx.h	162;"	d
+ISR_NOTUSED6_OFT	s3c24xx.h	144;"	d
+ISR_RTC_OFT	s3c24xx.h	168;"	d
+ISR_SDI_OFT	s3c24xx.h	159;"	d
+ISR_SPI0_OFT	s3c24xx.h	160;"	d
+ISR_SPI1_OFT	s3c24xx.h	167;"	d
+ISR_TICK_OFT	s3c24xx.h	146;"	d
+ISR_TIMER0_OFT	s3c24xx.h	148;"	d
+ISR_TIMER1_OFT	s3c24xx.h	149;"	d
+ISR_TIMER2_OFT	s3c24xx.h	150;"	d
+ISR_TIMER3_OFT	s3c24xx.h	151;"	d
+ISR_TIMER4_OFT	s3c24xx.h	152;"	d
+ISR_UART0_OFT	s3c24xx.h	166;"	d
+ISR_UART1_OFT	s3c24xx.h	161;"	d
+ISR_UART2_OFT	s3c24xx.h	153;"	d
+ISR_USBD_OFT	s3c24xx.h	163;"	d
+ISR_USBH_OFT	s3c24xx.h	164;"	d
+ISR_WDT_OFT	s3c24xx.h	147;"	d
+LCDCON1	s3c24xx.h	119;"	d
+LCDCON2	s3c24xx.h	120;"	d
+LCDCON3	s3c24xx.h	121;"	d
+LCDCON4	s3c24xx.h	122;"	d
+LCDCON5	s3c24xx.h	123;"	d
+LCDINTMSK	s3c24xx.h	134;"	d
+LCDINTPND	s3c24xx.h	132;"	d
+LCDSADDR1	s3c24xx.h	124;"	d
+LCDSADDR2	s3c24xx.h	125;"	d
+LCDSADDR3	s3c24xx.h	126;"	d
+LCDSRCPND	s3c24xx.h	133;"	d
+LOCKTIME	s3c24xx.h	96;"	d
+LPCSEL	s3c24xx.h	135;"	d
+MEM_CTL_BASE	init.c	7;"	d	file:
+MEM_CTL_BASE	s3c24xx.h	7;"	d
+MPLLCON	s3c24xx.h	97;"	d
+NAND_BLOCK_MASK_LP	nand.c	4;"	d	file:
+NAND_SECTOR_SIZE_LP	nand.c	3;"	d	file:
+NFADDR	s3c24xx.h	14;"	d
+NFCMD	s3c24xx.h	13;"	d
+NFCONF	s3c24xx.h	11;"	d
+NFCONT	s3c24xx.h	12;"	d
+NFDATA	s3c24xx.h	15;"	d
+NFSTAT	s3c24xx.h	16;"	d
+PALETTE	s3c24xx.h	136;"	d
+PCLK	serial.c	7;"	d	file:
+PRIORITY	s3c24xx.h	85;"	d
+REDLUT	s3c24xx.h	127;"	d
+RXD0READY	serial.c	5;"	d	file:
+S3C2440_MPLL_200MHZ	init.c	6;"	d	file:
+SDRAM_BASE	s3c24xx.h	8;"	d
+SRCPND	s3c24xx.h	82;"	d
+SUBSRCPND	s3c24xx.h	88;"	d
+TACLS	nand.c	5;"	d	file:
+TCFG0	s3c24xx.h	105;"	d
+TCFG1	s3c24xx.h	106;"	d
+TCMPB0	s3c24xx.h	109;"	d
+TCNTB0	s3c24xx.h	108;"	d
+TCNTO0	s3c24xx.h	110;"	d
+TCON	s3c24xx.h	107;"	d
+TPAL	s3c24xx.h	131;"	d
+TWRPH0	nand.c	6;"	d	file:
+TWRPH1	nand.c	7;"	d	file:
+TXD0READY	serial.c	4;"	d	file:
+UART_BAUD_RATE	serial.c	9;"	d	file:
+UART_BRD	serial.c	10;"	d	file:
+UART_CLK	serial.c	8;"	d	file:
+UBRDIV0	s3c24xx.h	78;"	d
+UCON0	s3c24xx.h	72;"	d
+UFCON0	s3c24xx.h	73;"	d
+ULCON0	s3c24xx.h	71;"	d
+UMCON0	s3c24xx.h	74;"	d
+UPLLCON	s3c24xx.h	98;"	d
+URXH0	s3c24xx.h	77;"	d
+UTRSTAT0	s3c24xx.h	75;"	d
+UTXH0	s3c24xx.h	76;"	d
+WTCNT	s3c24xx.h	4;"	d
+WTCON	init.c	3;"	d	file:
+WTCON	s3c24xx.h	2;"	d
+WTDAT	s3c24xx.h	3;"	d
+_start	head.S	/^_start:$/;"	l
+check_busy	nand.c	28;"	d	file:
+clock_init	init.c	/^void clock_init(void)$/;"	f
+disable	nand.c	26;"	d	file:
+disable_watch_dog	init.c	/^void disable_watch_dog()$/;"	f
+enable	nand.c	25;"	d	file:
+enable_rb	nand.c	27;"	d	file:
+erase_block	nand.c	/^void erase_block(unsigned int block)$/;"	f
+eraseb1	nand.c	15;"	d	file:
+eraseb2	nand.c	16;"	d	file:
+getc	serial.c	/^unsigned char getc(void)$/;"	f
+halt_loop	head.S	/^halt_loop:$/;"	l
+isDigit	serial.c	/^int isDigit(unsigned char c)$/;"	f
+isLetter	serial.c	/^int isLetter(unsigned char c)$/;"	f
+main	main.c	/^int main(void)$/;"	f
+memsetup	init.c	/^void memsetup()$/;"	f
+nand_init	nand.c	/^void nand_init(void)$/;"	f
+nand_read	nand.c	/^void nand_read(unsigned char *buf, unsigned long start_addr, int size)$/;"	f
+nand_reset	nand.c	/^static void nand_reset(void)$/;"	f	file:
+nand_write	nand.c	/^void nand_write(unsigned char *buf, unsigned long start_addr, int size)$/;"	f
+nf_readpage	nand.c	/^void nf_readpage(unsigned int block,unsigned int page,unsigned char *dstaddr)$/;"	f
+nf_writepage	nand.c	/^void nf_writepage(unsigned int block,unsigned int page,unsigned char *buffer)$/;"	f
+objs	Makefile	/^objs := head.o init.o serial.o nand.o main.o$/;"	m
+putc	serial.c	/^void putc(unsigned char c)$/;"	f
+ramread	nand.c	/^unsigned char ramread(unsigned int block,unsigned int page,unsigned int add)$/;"	f
+ramwrite	nand.c	/^unsigned char ramwrite(unsigned int block,unsigned int page,unsigned int add,unsigned char dat)$/;"	f
+raread1	nand.c	18;"	d	file:
+raread2	nand.c	19;"	d	file:
+rawrite	nand.c	17;"	d	file:
+read1	nand.c	9;"	d	file:
+read2	nand.c	10;"	d	file:
+read_byte	nand.c	24;"	d	file:
+read_id	nand.c	/^void read_id(unsigned char *buf)$/;"	f
+readid	nand.c	12;"	d	file:
+readsta	nand.c	20;"	d	file:
+reset	nand.c	11;"	d	file:
+send_addr	nand.c	22;"	d	file:
+send_cmd	nand.c	21;"	d	file:
+send_data	nand.c	23;"	d	file:
+uart0_init	serial.c	/^void uart0_init(void)$/;"	f
+waitrb	nand.c	29;"	d	file:
+writep1	nand.c	13;"	d	file:
+writep2	nand.c	14;"	d	file:
